@@ -4,6 +4,8 @@ import random
 import numpy as np
 import torch
 
+__all__ = ['set_seed']
+
 
 def set_seed(seed=42):
     """

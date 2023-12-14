@@ -1,0 +1,1 @@
+from .effnet import build_efficientnet_v2_s

@@ -1,0 +1,8 @@
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+opencv-contrib-python==4.8.1.78
+torchmetrics==1.2.1
+tensorboard==2.15.1
+tqdm==4.66.1
+-e .
